@@ -14,6 +14,7 @@ export const HeroCard = ({
     alter_ego,
     first_appearance,
     characters ,
+    
 }) => {
 
     
